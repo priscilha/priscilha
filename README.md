@@ -5,7 +5,8 @@
 - 🔭 Estou em transição de carreira
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas
 - 🌱 Estou aprendendo HTML, CSS e JavaScript
-- 🔎 No momento estou trabalhando em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t5-grupo-notfy
+- 🔎 No momento estou trabalhando em: [Desenvolvimento de uma Aplicação Interativa PUC Minas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t5-grupo-notfy)
+<br/>
 
  <div>
   <a href="https://github.com/priscilha">
