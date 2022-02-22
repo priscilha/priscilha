@@ -1,11 +1,10 @@
-### Oi, eu sou a Priscilha 👋
+### Hi, I'm Priscilha 👋
 
 
 
-- 🔭 Estou em transição de carreira
-- 📖 Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas
-- 🌱 Estou aprendendo HTML, CSS e JavaScript
-- 🔎 No momento estou trabalhando em: [Desenvolvimento de uma Aplicação Interativa PUC Minas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t5-grupo-notfy)
+- 📖 I'm graduating in System Analysis and Development at PUC Minas
+- 🌱  I’m currently learning Flutter, Dart, CSS and JavaScript
+- 🔎 I’m currently working on : [Desenvolvimento de uma Aplicação Interativa PUC Minas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t5-grupo-notfy)
 <br/>
 
  <div>
