@@ -27,6 +27,11 @@
    <img align="center" alt="Pri-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    <img align="center" alt="Pri-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-   
-![Snake animation](https://github.com/priscilha/priscilha/blob/output/github-contribution-grid-snake.svg)
+      
+   &nbsp;
+      
+   &nbsp;
+   ---
+   ### Watch a snake-eating🐍 my contribution graph on Github
+   ![Snake animation](https://github.com/priscilha/priscilha/blob/output/github-contribution-grid-snake.svg)
 </div>
