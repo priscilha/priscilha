@@ -1,6 +1,6 @@
 ### Hi, I'm Priscilha :wave:
 
-
+Glad to see you here! 
 
 - 📖 I'm graduating in System Analysis and Development at PUC Minas
 - :woman_technologist:  I’m currently learning: Mobile | Web Dev
