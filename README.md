@@ -28,10 +28,4 @@ Glad to see you here! :star_struck:
    <img align="center" alt="Pri-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
       
-   &nbsp;
-      
-   &nbsp;
-   ---
-   ### Watch a snake-eating🐍 my contribution graph on Github
-   ![Snake animation](https://github.com/priscilha/priscilha/blob/output/github-contribution-grid-snake.svg)
-</div>
+  
