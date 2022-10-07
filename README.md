@@ -4,7 +4,7 @@ Glad to see you here! :star_struck:
 
 - 📖 I'm graduating in System Analysis and Development at PUC Minas
 - :woman_technologist:  I’m currently learning: Mobile | Web Dev
-- 🔎 I’m currently working on : [Desenvolvimento de uma Aplicação Interativa PUC Minas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t5-grupo-notfy)
+- 🔎 I’m currently working on : [Desenvolvimento de uma Aplicação Interativa PUC Minas](https://github.com/JamarinoDopazo/votecerto.git)
 <br/>
 
  <div>
