@@ -3,7 +3,7 @@
 Glad to see you here! :star_struck:
 
 - 📖 I'm graduating in System Analysis and Development at PUC Minas
-- :woman_technologist:  I’m currently learning: Mobile | Web Dev
+- :woman_technologist:  I’m currently learning: Front-end web development
 - 🔎 I’m currently working on : [Desenvolvimento de uma Aplicação Interativa PUC Minas](https://github.com/JamarinoDopazo/votecerto.git)
 <br/>
 
