@@ -2,7 +2,7 @@
 
 Glad to see you here! :star_struck:
 
-- 📖 I'm graduating in System Analysis and Development at PUC Minas
+- 📖 I'm graduating in Systems Analysis and Development at PUC Minas
 - :woman_technologist:  I’m currently learning: Front-end web development
 - 🔎 I’m currently working on : [Desenvolvimento de uma Aplicação Interativa PUC Minas](https://github.com/ICEI-PUC-Minas-PMV-ADS/Biblioteca-Dona-Benicia)
 <br/>
